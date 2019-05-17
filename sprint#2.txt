@@ -1,0 +1,9 @@
+The Second week
+Project manager: Yongjie Zhuo
+Scrum Master: Haiyu Gao
+User AS a User :Langjian Zhong and WeilinZhu
+Goal:
+1. Continue to improve the Sneakerhead database, add photos of sneakers, and set up a link to search for goods.
+===========================================================================
+2. In addition to converse, adidas, Nike, anta, li ning and new balance, puma is added to our shoes.
+Perfect the information data of these commodities.

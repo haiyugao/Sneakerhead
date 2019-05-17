@@ -1,0 +1,9 @@
+The first week
+Project manager: Haiyu Gao
+Scrum Master: Yongjie Zhuo
+The User AS a User: WeilinZhu
+Goal:1. Create a Sneakerhead database, 
+   set up corresponding architecture and create corresponding classes.
+======================================================
+    2.Our shoes include converse, adidas, Nike, anta, li ning, new balance and so on.
+   Preliminary establishment of these goods information data.
