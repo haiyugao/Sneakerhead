@@ -1,0 +1,4 @@
+Name of the GitHub project:  Sneakerhead
+GitHub username of the GitHub repository:  Langjian Zhong and Weilin Zhu
+Name of the Product Owner: Yongjie Zhuo
+Name of the Scrum Master: Haiyu Gao
